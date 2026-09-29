@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\HeaderProperty.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\AttributeContainer.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\AttributeInfo.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\DM.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\FwdRef.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\HasAttributes.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\HasInnerText.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\KvmSerializable.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\Marshal.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\MarshalBase64.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\MarshalDate.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\MarshalHashtable.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\NullSoapObject.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\PropertyInfo.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\SoapObject.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\SoapPrimitive.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\SoapSerializationEnvelope.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\serialization\ValueWriter.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\SoapEnvelope.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\SoapFault.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\SoapFault12.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\transport\ServiceConnection.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\main\java\org\ksoap2\transport\Transport.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\DMTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\MarshalBase64Test.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\MarshalDateTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\MarshalHashtableTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\PropertyInfoTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\SoapObjectTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\SoapPrimitiveTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\serialization\SoapSerializationEnvelopeTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\SoapEnvelopeTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\SoapFaultTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\mock\ComplexParameter.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\mock\ComplexResponse.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\mock\MockTransport.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\mock\MockXmlPullParser.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\mock\MockXmlSerializer.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\ServiceConnectionFixture.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-base\src\test\java\org\ksoap2\transport\TransportTestCase.java">
+</file>
+</checkstyle>

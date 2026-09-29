@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\serialization\MarshalFloat.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\HttpResponseException.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\HttpsServiceConnectionSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\HttpsServiceConnectionSEIgnoringConnectionClose.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\HttpsTransportSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\HttpTransportSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\KeepAliveHttpsTransportSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\KeepAliveHttpTransportSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\OkHttpServiceConnectionSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\OkHttpTransportSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\main\java\org\ksoap2\transport\ServiceConnectionSE.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\test\java\org\ksoap2\serialization\MarshalFloatTest.java">
+</file>
+<file name="C:\Users\JHON\Downloads\ksoap2-android-3.6.2\ksoap2-android-3.6.2\ksoap2-j2se\src\test\java\org\ksoap2\transport\HttpTransportSETest.java">
+</file>
+</checkstyle>

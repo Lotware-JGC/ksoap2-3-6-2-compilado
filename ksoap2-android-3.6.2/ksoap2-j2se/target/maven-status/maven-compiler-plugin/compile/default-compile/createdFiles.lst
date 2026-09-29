@@ -1,0 +1,11 @@
+org\ksoap2\serialization\MarshalFloat.class
+org\ksoap2\transport\KeepAliveHttpTransportSE.class
+org\ksoap2\transport\ServiceConnectionSE.class
+org\ksoap2\transport\OkHttpServiceConnectionSE.class
+org\ksoap2\transport\HttpTransportSE.class
+org\ksoap2\transport\HttpsTransportSE.class
+org\ksoap2\transport\KeepAliveHttpsTransportSE.class
+org\ksoap2\transport\HttpsServiceConnectionSE.class
+org\ksoap2\transport\HttpResponseException.class
+org\ksoap2\transport\HttpsServiceConnectionSEIgnoringConnectionClose.class
+org\ksoap2\transport\OkHttpTransportSE.class

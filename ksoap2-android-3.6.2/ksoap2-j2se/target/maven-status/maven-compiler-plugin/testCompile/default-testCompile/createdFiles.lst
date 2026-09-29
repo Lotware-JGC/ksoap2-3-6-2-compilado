@@ -1,0 +1,3 @@
+org\ksoap2\transport\HttpTransportSETest$MyTransport.class
+org\ksoap2\transport\HttpTransportSETest.class
+org\ksoap2\serialization\MarshalFloatTest.class
